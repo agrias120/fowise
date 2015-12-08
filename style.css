@@ -1,0 +1,69 @@
+td {
+    border: none !important;
+}
+
+.header{
+	background-color:#efefef;
+}
+
+h1 {
+    color: #666 !important;
+    font-size: 72px;
+}
+.card-picture {
+    width: 100%;
+    max-width:175px;
+}
+.filter-controls {
+    background: #efefef none repeat scroll 0 0;
+    padding: 20px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index:1000;
+}
+.success-msg {
+    margin: 0 auto 20px;
+    padding: 10px;
+    width: 50%;
+    color:green;
+}
+.info-msg {
+    margin: 0 auto 20px;
+    padding: 10px;
+    width: 50%;
+}
+.home, .register {
+    background: #efefef none repeat scroll 0 0;
+    border: 3px solid #337ab7;
+    border-radius: 5px;
+    float: left;
+    font-size: 25px;
+    margin-right: 5px;
+    padding: 3px 5px 5px 3px;
+    position: relative;
+}
+.register{
+	padding: 3px 6px 5px 9px;
+}
+select {
+    border: 1px solid #666;
+    border-radius: 5px;
+    padding: 9px;
+}
+input {
+    bottom: 1px;
+    padding: 9px !important;
+    position: relative;
+}
+.float-right {
+    color: #bbb;
+    float: right;
+    font-style: italic;
+    position: absolute;
+    right: 20px;
+    top: 20px;
+}
+.heading{
+	margin-top:100px;
+}
